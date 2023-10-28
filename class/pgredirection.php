@@ -91,6 +91,7 @@
             }
         }
         
+		//updated to help secure process
         function editEntry($post) {
             $url = null;
             
