@@ -2,10 +2,10 @@
 
     /**
     * Plugin Name: QikRedirection
-    * Plugin URI: http://qiksoft.com
-    * Version: 2.8
+    * Plugin URI: https://qiksoft.com
+    * Version: 2.8.1
     * Author: QikSoft
-    * Author URI: http://webhostingrecon.com
+    * Author URI: https://qikgraphics.com
     * Description: Redirect any Page or Post to URL of choice. Best for page redirection.
     * Text Domain: qiksoft
     * License: MIT
